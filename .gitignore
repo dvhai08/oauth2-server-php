@@ -1,0 +1,26 @@
+# Composer
+/vendor/
+composer.phar
+composer.lock
+
+# IDEs
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Testing
+.phpunit.result.cache
+/tests/_output/
+/tests/_support/_generated/
+
+# Runtime/Temp
+/runtime/
+temp/
